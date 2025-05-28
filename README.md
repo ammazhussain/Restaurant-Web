@@ -15,6 +15,7 @@
 
 ## Folder Structure
 
+```
 Restaurant Web/
 │
 ├── home.html                # Main homepage of the website
@@ -31,7 +32,7 @@ Restaurant Web/
 │   ├── food/                # Food-related images
 │   └── icons/               # Icon graphics and UI assets
 
-
+```
 
 ## Purpose
 
@@ -47,27 +48,23 @@ This website was built as a **portfolio piece to showcase my Bootstrap design ca
 
 ## Screenshots
 
-🏠 Home Page
+🏠 **Home Page**
 
 <img width="905" alt="home Rest" src="https://github.com/user-attachments/assets/3e61bc49-6a0e-46dc-a36a-378bf8380ace" />
 
-🍝 Menu Section
+🍝 **Menu Section**
 
 <img width="905" alt="Menu" src="https://github.com/user-attachments/assets/d513ec9f-6a92-4a77-b040-7f223f54821c" />
 
-🖼️ Gallery Section
+🖼️ **Gallery Section**
 
 <img width="905" alt="gallery" src="https://github.com/user-attachments/assets/5f683cef-c754-449a-b2aa-29fded41a40b" />
 
-👨‍🍳 Our Chefs
-
-<img width="905" alt="cheifs" src="https://github.com/user-attachments/assets/fc91c0c8-4816-4179-a9c6-3bc7d7268425" />
-
-📞 Reservation / Contact Form
+📞 **Reservation / Contact Form**
 
 <img width="905" alt="Contact" src="https://github.com/user-attachments/assets/53cfc268-0424-4663-99ff-e778d308a0f4" />
 
-📱 Mobile Responsive View
+📱 **Mobile Responsive View**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9471449f-69d6-40ee-a2b3-51bd7265fc27" width="45%" style="margin: 1rem;">
